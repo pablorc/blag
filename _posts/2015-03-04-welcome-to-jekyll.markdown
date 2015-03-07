@@ -9,11 +9,11 @@ image:
 
 Hi!
 
-My name's Pablo (usually @pablorc online), and spanish developer. For many years I'd like to start a new development blog to talk about my own thoughts and doubts about development and software engineering.
+My name's Pablo (usually @pablorc online), and spanish software engineer. For many years I'd like to start a new development blog to talk about my own thoughts and doubts about development and software engineering.
 
-I'm also trying to write in english to improve my langugage skills :). I'm very sorry if you find any misprint.
+I'm also trying to write in english to improve my language skills :). I'm sorry if you find any misprint. Drop me a line if you find any error. It would be very appreciated. Thanks!
 
-Here you will find anything! Any language, framework, methodology,...
+Here you will find anything! Any framework, programming language, methodology,...
 
 I'm awful creating this kind of posts about myself, so... Let's code!
 
