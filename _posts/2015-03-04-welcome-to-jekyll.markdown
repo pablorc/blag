@@ -2,7 +2,9 @@
 layout: post
 title:  "Welcome to KDD (Kitten Driven Development)!"
 date:   2015-03-04 23:39:08
-categories: jekyll
+categories: myself
+image:
+  feature: firstpost.jpg
 ---
 
 Hi!
