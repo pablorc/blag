@@ -11,6 +11,8 @@ My name's Pablo (usually @pablorc online), and spanish developer. For many years
 
 I'm also trying to write in english to improve my langugage skills :). I'm very sorry if you find any misprint.
 
+Here you will find anything! Any language, framework, methodology,...
+
 I'm awful creating this kind of posts about myself, so... Let's code!
 
 {% highlight ruby %}
