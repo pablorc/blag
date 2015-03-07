@@ -1,11 +1,8 @@
 # Site settings
-title: Kitten Driven Development!
+title: Kitten Driven Development
 email: pabloriveraconde@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just another development blog.
-  A way to make me learn new things, rethink some ones I already knew,
-  Any language/framework is welcome! 
-  Ruby, Javascript, Rails, NodeJS, BackboneJS, Sass, CouchDB, MySQL,... even Haskell!
+  Just another development blog made by @pablorc.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pablorc.github.com" # the base hostname & protocol for your site
 twitter_username: pablorc
