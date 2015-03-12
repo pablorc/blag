@@ -1,6 +1,6 @@
 title:            Kitten Driven Development
 description:      Just another development blog.
-disqus_shortname: hpstrtheme
+disqus_shortname: "pablorc-at-github"
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -11,7 +11,7 @@ url:
 owner:
   name:           Pablo Rivera Conde
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "I'm a software enginner living in Spain. I spend my days working in a startup and trying to learn all I can :)"
   email:          pabloriveraconde@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        pablorc
